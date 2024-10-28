@@ -1,4 +1,4 @@
-# I Nyoman Mahayasa Adiputra
+# <span style="color:skyblue">I Nyoman Mahayasa Adiputra</span>
 <h3>PhD Candidate</h3>
 College of Computing<br>
 Khon Kaen University, Thailand<br>
