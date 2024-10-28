@@ -1,9 +1,9 @@
 # <span style="color:#3498db">I Nyoman Mahayasa Adiputra</span>
 <h3>PhD Candidate</h3>
-College of Computing<br>
-Khon Kaen University, Thailand<br>
+College of Computing, Khon Kaen University, Thailand<br>
 Email: mahayasa.a@kkumail.com<br>
-Twitter: @mhysadptr
+Twitter: @mhysadptr<br>
+<a href="https://github.com/mahayasa/">GitHub Repository</a>
 
 # <span style="color:#3498db">Experiences</span>
 Rebecca Lab, Feng Chia University, Taichung, Taiwan<br>**Research Internship**<br>
