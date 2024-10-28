@@ -1,6 +1,6 @@
 # I Nyoman Mahayasa Adiputra
-PhD Candidate
-College of Computing
-Khon Kaen University
-Thailand
+PhD Candidate<br>
+College of Computing<br>
+Khon Kaen University<br>
+Thailand<br>
 Email : mahayasa.a@kkumail.com
