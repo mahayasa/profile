@@ -2,7 +2,7 @@
 <h3>PhD Candidate</h3>
 College of Computing<br>
 Khon Kaen University, Thailand<br>
-Email: mahayasa.a@kkumail.com
+Email: mahayasa.a@kkumail.com<br>
 Twitter: @mhysadptr
 
 # Experiences
