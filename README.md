@@ -6,8 +6,9 @@ mahayasa.a@kkumail.com<br>
 <a href="https://github.com/mahayasa/">GitHub Repository</a>
 
 # <span style="color:#3498db">Experiences</span>
-Rebecca Lab, Feng Chia University, Taichung, Taiwan<br>**Research Internship**<br><br>
-Software Developer, <a href="https://instagram.com/snow.sd/">@snow.sd</a><br>**Self Employed**<br>
+<a href="https://rebeccacasalibro.wixsite.com/rebeccalab">Rebecca Lab</a>, Feng Chia University, Taichung, Taiwan<br>**Research Internship**<br><br>
+<a href="https://computing.kku.ac.th/en/aidalab">AIDA Lab</a>, Khon Kaen University, Khon Kaen, Thailand<br>**PhD Student**<br><br>
+<a href="https://instagram.com/snow.sd/">@snow.sd</a> Software Developer, Bali, Indonesia<br>**Self Employed**<br>
 
 # <span style="color:#3498db">Publications</span>
 CTGAN-ENN: a tabular GAN-based hybrid sampling method for imbalanced and overlapped data in customer churn prediction<br>
