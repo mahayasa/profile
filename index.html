@@ -1,31 +1,139 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="UTF-8">
-  <title>I Nyoman Mahayasa Adiputra</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport"
-    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-    <link rel="manifest" href="images/site.webmanifest">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal academic webpage">
+    <title>Your Name - Homepage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        section {
+            margin-bottom: 2rem;
+        }
+
+        section h2 {
+            border-bottom: 2px solid #007bff;
+            display: inline-block;
+            margin-bottom: 1rem;
+        }
+
+        ul {
+            padding-left: 1.5rem;
+        }
+
+        li {
+            margin-bottom: 0.5rem;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 2rem;
+            padding: 1rem 0;
+            background-color: #333;
+            color: #fff;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
-
 <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'Curiculum Vitae',
-      repo: 'https://github.com/mahayasa/profile/',
-      relativePath: true,
-      auto2top: true
-    }
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-</body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Position | Institution</p>
+        <p><a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    </header>
 
+    <div class="container">
+        <section id="intro">
+            <h2>Introduction</h2>
+            <p>Welcome to my academic homepage! I'm a Ph.D. student in [Field] at [Institution], working under the supervision of [Advisor Name]. My research focuses on [Topics/Interests].</p>
+        </section>
+
+        <section id="news">
+            <h2>News</h2>
+            <ul>
+                <li><strong>2024.11:</strong> [Latest news or achievement]</li>
+                <li><strong>2024.07:</strong> [Another news]</li>
+                <li><strong>2024.04:</strong> [Another update]</li>
+            </ul>
+        </section>
+
+        <section id="publications">
+            <h2>Publications</h2>
+            <ul>
+                <li><strong>[Title of Paper]</strong> - Authors. <i>Conference/Journal, Year.</i> [<a href="#">Paper</a>] [<a href="#">Code</a>]</li>
+                <li><strong>[Title of Another Paper]</strong> - Authors. <i>Conference/Journal, Year.</i> [<a href="#">Paper</a>] [<a href="#">Abstract</a>]</li>
+            </ul>
+        </section>
+
+        <section id="awards">
+            <h2>Honors and Awards</h2>
+            <ul>
+                <li>[Award Name, Year]</li>
+                <li>[Award Name, Year]</li>
+            </ul>
+        </section>
+
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Ph.D. in [Field]</strong>, [Institution], [Year] - Present</li>
+                <li><strong>M.Sc. in [Field]</strong>, [Institution], [Year] - [Year]</li>
+            </ul>
+        </section>
+
+        <section id="teaching">
+            <h2>Teaching Experience</h2>
+            <ul>
+                <li>[Course Name], [Institution], [Year]</li>
+            </ul>
+        </section>
+
+        <section id="internships">
+            <h2>Internships</h2>
+            <ul>
+                <li><strong>[Company]</strong>, [Role], [Year]</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
 </html>
