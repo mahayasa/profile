@@ -14,5 +14,5 @@ I Nyoman Mahayasa Adiputra, Paweena Wanchai<br>
 <a href="https://link.springer.com/article/10.1186/s40537-024-00982-x">Journal of Big Data</a>, 2024
 
 # <span style="color:#3498db">Awards</span>
-NSTC International Internship Pilot Program (IIPP), 2024<br><br>
-ASEAN GMS Scholarship, 2022<br>
+NSTC International Internship Pilot Program (IIPP), Taiwan, 2024<br><br>
+ASEAN GMS Scholarship, Thailand, 2022<br>
