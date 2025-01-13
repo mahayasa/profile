@@ -9,6 +9,9 @@ mahayasa.a@kkumail.com; <a href="https://twitter.com/mhysadptr">@mhysadptr</a>; 
 <a href="https://instagram.com/snow.sd/">@snow.sd</a> Software Developer, Bali, Indonesia<br>**Self Employed**<br>
 
 # <span style="color:#3498db">Publications</span>
+The Effectiveness of GAN-based Oversampling Method on Imbalanced Multi-class Credit Score Classification<br>
+I Nyoman Mahayasa Adiputra, Pei-Chun Lin, Paweena Wanchai<br>
+Electronics, Under Review<br><br>
 Optimized customer churn prediction using tabular GAN-based hybrid sampling method and cost-sensitive learning<br>
 I Nyoman Mahayasa Adiputra, Paweena Wanchai, Pei-Chun Lin<br>
 PeerJ Computer Science, Under Review<br><br>
@@ -18,6 +21,6 @@ I Nyoman Mahayasa Adiputra, Paweena Wanchai<br>
 
 
 # <span style="color:#3498db">Scholarships and Grants</span>
-Publication Grant NSTC 113-2221-E-035-072-, Ministry of Science and Technology, Taiwan, 2024<br><br>
+Publication Grant: NSTC 113-2221-E-035-072- ,The Ministry of Science and Technology (MOST), Taiwan, 2025<br><br>
 NSTC International Internship Pilot Program (IIPP), Feng Chia University, Taiwan, 2024<br><br>
 PhD Scholarship, ASEAN GMS Khon Kaen University, Thailand, 2022<br>
