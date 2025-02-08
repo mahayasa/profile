@@ -1,6 +1,5 @@
 # <span style="color:#3498db">I Nyoman Mahayasa Adiputra</span>
-<h3>Computer Scientist</h3>
-Computer Scientist and Software Developer<br>
+<h3>Computer Scientist</h3><br>
 mahayasa3@gmail.com; <a href="https://twitter.com/mhysadptr">@mhysadptr</a>; <a href="https://github.com/mahayasa/">GitHub Repository</a>
 
 # <span style="color:#3498db">Experiences</span>
