@@ -10,10 +10,10 @@ mahayasa3@gmail.com; <a href="https://twitter.com/mhysadptr">@mhysadptr</a>; <a 
 # <span style="color:#3498db">Publications</span>
 The Effectiveness of GAN-based Oversampling Method on Imbalanced Multi-class Credit Score Classification<br>
 I Nyoman Mahayasa Adiputra, Pei-Chun Lin, Paweena Wanchai<br>
-Electronics, 2025<br><br>
+<a href="https://www.mdpi.com/2079-9292/14/4/697">Electronics</a>, 2025<br><br>
 Optimized customer churn prediction using tabular GAN-based hybrid sampling method and cost-sensitive learning<br>
 I Nyoman Mahayasa Adiputra, Paweena Wanchai, Pei-Chun Lin<br>
-PeerJ Computer Science, Under Review<br><br>
+PeerJ Computer Science, Under Revision<br><br>
 CTGAN-ENN: a tabular GAN-based hybrid sampling method for imbalanced and overlapped data in customer churn prediction<br>
 I Nyoman Mahayasa Adiputra, Paweena Wanchai<br>
 <a href="https://link.springer.com/article/10.1186/s40537-024-00982-x">Journal of Big Data</a>, 2024<br>
